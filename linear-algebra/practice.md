@@ -1,4 +1,5 @@
 # Hi practice
 
-
-<math>\frac{a}{b}\ \tfrac{a}{b}</math>
+$$
+\lVert a \rVert = \sqrt{a^Ta} = \sqrt{a_1^2+a_2^2+\cdots+a_n^2}
+$$
