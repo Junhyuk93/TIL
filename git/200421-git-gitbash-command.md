@@ -57,4 +57,6 @@ git commit : staging area 에 저장됐던 파일이 local repository로 확정�
 
 - git clone https://github.com/아이디/이름.git : 원격 저장소를 내 컴퓨터에 받아오기 ( 새로운 폴더를 만들어서)
 
--git clone https://github.com/아이디/이름.git. : 원격 저장소를 내 컴퓨터에 받아오기(현재 폴더에)
+- git clone https://github.com/아이디/이름.git. : 원격 저장소를 내 컴퓨터에 받아오기(현재 폴더에)
+
+- mv {원래파일명} {바뀔 파일명} : 파일명을 바꾼다.(확장자도 바꿀 수 있다)
