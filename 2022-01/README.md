@@ -14,7 +14,7 @@
   <!-- summary 아래 한칸 공백 두어야함 -->
 
 ### 면접
-- [질문 되새김 및 정리](https://tabby-table-700.notion.site/4dc323dcc52442a6adf3b01f6917692f)
+- [x] [질문 되새김 및 정리](https://tabby-table-700.notion.site/4dc323dcc52442a6adf3b01f6917692f)
 </details>
 
 
@@ -24,12 +24,14 @@
   <!-- summary 아래 한칸 공백 두어야함 -->
 
 ### 알고리즘
-- DP 실버이상 문제 2개 해결하기
+- [x] DP 실버이상 문제 2개 해결하기
+  - [연속합](https://www.acmicpc.net/problem/1912)
+  - [정수 삼각형](https://www.acmicpc.net/problem/1932)
 
 ### 강의
-- OCR 강의 정리
+- [x] OCR 강의 정리
 
 ### 정리
-- 블로그 테마와 기존 내용 정리
+- [x] 블로그 테마와 기존 내용 정리
 </details>
 
