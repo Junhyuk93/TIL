@@ -7,8 +7,19 @@
 - 면접스터디 준비
 - 주 1회 이상 논문 리뷰
 
+
 <details>
- <summary>1월 1일</summary>
+ <summary>1월 6일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 면접
+- [질문 되새김 및 정리](https://tabby-table-700.notion.site/4dc323dcc52442a6adf3b01f6917692f)
+</details>
+
+
+<details>
+ <summary>1월 10일</summary>
 
   <!-- summary 아래 한칸 공백 두어야함 -->
 

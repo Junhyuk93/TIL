@@ -3,4 +3,4 @@
 
 # 월별 TIL 및 수강 강의
 
-- [2022년 1월](https://github.com/sinkyoungdeok/TIL/tree/main/2022-1)
+- [2022년 1월](https://github.com/Junhyuk93/TIL/tree/master/2022-01)
