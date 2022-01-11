@@ -35,3 +35,22 @@
 - [x] 블로그 테마와 기존 내용 정리
 </details>
 
+
+<details>
+ <summary>1월 11일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 알고리즘
+- [x] DP 문제 2개 이상 해결하기
+  - [내리막길](https://www.acmicpc.net/problem/1520)
+  - [안녕](https://www.acmicpc.net/problem/1535)
+
+### 논문
+- [x] Yolox 논문 정리 및 리뷰
+
+### 프로젝트
+- [ ] photo inpainting 관련 정보 알아보기
+
+</details>
+
