@@ -54,3 +54,21 @@
 
 </details>
 
+<details>
+ <summary>1월 12일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 알고리즘
+- [ ] 알고리즘 2개 이상 해결하기
+  - [외판원 순회 2](https://www.acmicpc.net/problem/10971)
+  - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+
+### 프로젝트
+- [x] Kaggle TensorFlow - Help Protect the Great Barrier Reef yolox-x train 해보기
+- [x] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 참가 및 Baseline 토의
+- [x] Time Series Model 확인하기
+
+### 논문
+- [ ] LSTM 논문 정리 및 리뷰
+</details>
