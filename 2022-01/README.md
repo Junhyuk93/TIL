@@ -72,3 +72,13 @@
 ### 논문
 - [ ] LSTM 논문 정리 및 리뷰
 </details>
+
+<details>
+ <summary>1월 13일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 프로젝트
+- [x] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 토의 및 코드 작성
+
+</details>
