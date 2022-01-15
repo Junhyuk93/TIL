@@ -47,7 +47,7 @@
   - [안녕](https://www.acmicpc.net/problem/1535)
 
 ### 논문
-- [x] Yolox 논문 정리 및 리뷰
+- [x] [Yolox 논문 정리 및 리뷰](https://github.com/Junhyuk93/studying-deep-learning-paper/blob/main/YOLOX/YOLOX_review.md)
 
 ### 프로젝트
 - [ ] photo inpainting 관련 정보 알아보기
@@ -80,5 +80,44 @@
 
 ### 프로젝트
 - [x] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 토의 및 코드 작성
+
+</details>
+
+<details>
+ <summary>1월 13일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 프로젝트 
+- [x] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 코드 작성 및 실험
+
+
+</details>
+
+<details>
+ <summary>1월 14일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 프로젝트 
+- [x] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 코드 작성 및 실험
+
+### 스터디
+- [x] 면접스터디 활성화 및 향후 방향 토의
+
+
+</details>
+
+<details>
+ <summary>1월 15일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 프로젝트 
+- [x] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 코드 실험 결과 정리
+
 
 </details>
