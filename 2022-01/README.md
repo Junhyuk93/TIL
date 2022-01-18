@@ -84,7 +84,7 @@
 </details>
 
 <details>
- <summary>1월 13일</summary>
+ <summary>1월 14일</summary>
 
   <!-- summary 아래 한칸 공백 두어야함 -->
 
@@ -96,7 +96,7 @@
 </details>
 
 <details>
- <summary>1월 14일</summary>
+ <summary>1월 15일</summary>
 
   <!-- summary 아래 한칸 공백 두어야함 -->
 
@@ -111,7 +111,7 @@
 </details>
 
 <details>
- <summary>1월 15일</summary>
+ <summary>1월 16일</summary>
 
   <!-- summary 아래 한칸 공백 두어야함 -->
 
@@ -174,3 +174,22 @@
 - [ ] DP나 BFS 2문제 풀기
 
 </details>
+
+<details>
+ <summary>1월 18일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 프로젝트 
+- [x] Kaggle : Help Protect the Great Barrier Reef 대회 코드 작성 및 제출 (61/1439)
+
+### 취업준비
+- [x] 자기소개서 제출
+- [x] 포트폴리오 정리
+
+### 알고리즘
+- [ ] DP나 BFS 2문제 풀기
+
+</details>
+
