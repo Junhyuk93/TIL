@@ -193,3 +193,23 @@
 
 </details>
 
+<details>
+ <summary>1월 19일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 프로젝트 
+- [x] Kaggle : Help Protect the Great Barrier Reef 대회 코드 작성 및 제출
+- [ ] Dacon 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 - Pytorch Lightning으로 변환 및 코드 작성
+
+### 취업준비
+- [x] 포트폴리오 정리
+- [ ] 면접스터디 답변 작성
+
+### 알고리즘
+- [ ] 이것이 코딩테스트다 - DP part 공부 및 문제풀이
+
+
+</details>
+
