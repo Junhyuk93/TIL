@@ -213,3 +213,58 @@
 
 </details>
 
+<details>
+ <summary>1월 20일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 프로젝트 
+- [x] Kaggle : Help Protect the Great Barrier Reef 대회 코드 작성 및 제출
+
+
+### 취업준비
+- [x] 면접스터디 답변 작성
+
+### 알고리즘
+- [x] 이것이 코딩테스트다 - DP part 공부 및 문제풀이
+
+
+</details>
+
+
+<details>
+ <summary>1월 21일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 취업준비
+- [x] 면접스터디 답변 작성
+
+### 알고리즘
+- [x] 이것이 코딩테스트다 - DP part 공부 및 문제풀이
+
+
+</details>
+
+
+<details>
+ <summary>1월 22일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 프로젝트 
+- [x] Kaggle : Help Protect the Great Barrier Reef 대회 코드 작성 및 제출
+
+### 개인공부
+- [x] Video Inpainting Paper 읽기 : Deep Flow-Guided Video Inpainting(CVPR 2019)
+
+
+### 알고리즘
+- [x] 이것이 코딩테스트다 - 그리디 part 공부하기
+
+
+</details>
+
+
