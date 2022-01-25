@@ -284,3 +284,35 @@
 남과 비교하지말고 내 할꺼 열심히 하기!! 😤
 
 </details>
+
+<details>
+ <summary>1월 24일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 개인공부
+- [x] Time Series ML Task 공부
+
+
+### 알고리즘
+- [x] 이것이 코딩테스트다 - 그리디 part 공부 / 문제풀이
+
+
+</details>
+
+
+
+<details>
+ <summary>1월 25일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 과제
+- [x] 카카오 모빌리티 과제전형 진행
+
+
+### 알고리즘
+- [x] 이것이 코딩테스트다 - 그리디 part 공부 / 문제풀이
+
+
+</details>
