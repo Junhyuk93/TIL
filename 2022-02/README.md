@@ -22,3 +22,41 @@
 
 
 </details>
+
+
+<details>
+ <summary>2월 3일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 취업준비
+- [ ] GAN 공부하기
+
+### 알고리즘
+- [x] DFS BFS 문제풀이
+  - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+
+
+</details>
+
+<details>
+ <summary>2월 3일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 취업준비
+- [ ] GAN 공부하기
+
+### 알고리즘
+- [x] DFS BFS 문제풀이
+  - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+
+
+</details>
+
+
+
