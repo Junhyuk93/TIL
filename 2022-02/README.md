@@ -59,4 +59,20 @@
 </details>
 
 
+<details>
+ <summary>2월 4일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 취업준비
+- [x] 자소서 첨삭
+
+### 알고리즘
+- [x] 정렬 문제 풀이
+  - [국영수](https://www.acmicpc.net/problem/10825)
+
+
+
+</details>
 
