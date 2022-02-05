@@ -76,3 +76,16 @@
 
 </details>
 
+<details>
+ <summary>2월 5일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+
+### 휴식
+- [x] 격렬히 뒹굴기
+- [x] 운동 파트너랑 헬스하기 🦾
+
+
+</details>
+
