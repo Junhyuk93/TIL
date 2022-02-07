@@ -83,9 +83,20 @@
 
 
 ### 휴식
-- [x] 격렬히 뒹굴기
+- [x] 격렬히 쉬기
 - [x] 운동 파트너랑 헬스하기 🦾
 
+
+</details>
+
+<details>
+ <summary>2월 7일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 알고리즘
+- [ ] 구현 문제 풀이
+  - [외벽점검](https://programmers.co.kr/learn/courses/30/lessons/60062)
 
 </details>
 
