@@ -100,3 +100,17 @@
 
 </details>
 
+<details>
+ <summary>2월 9일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 알고리즘
+- [ ] 구현 문제 풀이
+  - [뱀](https://www.acmicpc.net/problem/3190)
+
+### 면접준비
+- [x] 면접 스터디 문제 풀이(OS,Network,DB)
+
+</details>
+
