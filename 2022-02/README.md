@@ -106,11 +106,27 @@
   <!-- summary 아래 한칸 공백 두어야함 -->
 
 ### 알고리즘
-- [ ] 구현 문제 풀이
+- [x] 구현 문제 풀이
   - [뱀](https://www.acmicpc.net/problem/3190)
 
 ### 면접준비
 - [x] 면접 스터디 문제 풀이(OS,Network,DB)
+
+</details>
+
+
+
+<details>
+ <summary>2월 10일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 알고리즘
+- [x] 그래프 문제 풀이
+  - [뱀](https://www.acmicpc.net/problem/3190)
+
+### 취업준비
+- [x] 카카오 모빌리티 NEMO 2022 참여
 
 </details>
 
