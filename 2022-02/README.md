@@ -131,12 +131,29 @@
 </details>
 
 <details>
- <summary>2월 13일</summary>
+ <summary>2월 12일</summary>
 
   <!-- summary 아래 한칸 공백 두어야함 -->
 
 ### 취업준비
 - [x] 네이버제트 면접 준비 - PT발표 
+
+
+</details>
+
+<details>
+ <summary>2월 2주차 회고</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+갑작스럽게 네이버제트 면접이 잡혔다..
+
+금요일 19시에 전화로 확인받았고 차주 화요일 면접..
+
+급하게 PT발표에 쓸 자료를 만들고 내용을 정리했다.
+
+모자란 점이 많지만 열심히 준비해서 후회없이 면접을 봤으면 좋겠다,,
+
+</details>
 
 <details>
  <summary>2월 14일</summary>
@@ -156,5 +173,13 @@
 
 ### 취업준비
 - [x] 네이버제트 1차면접
+
+</details>
+
+<details>
+ <summary>2월 16일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
 
 </details>
