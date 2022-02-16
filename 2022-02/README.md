@@ -130,3 +130,31 @@
 
 </details>
 
+<details>
+ <summary>2월 13일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 취업준비
+- [x] 네이버제트 면접 준비 - PT발표 
+
+<details>
+ <summary>2월 14일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 취업준비
+- [x] 네이버제트 면접 준비
+
+</details>
+
+
+<details>
+ <summary>2월 15일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 취업준비
+- [x] 네이버제트 1차면접
+
+</details>
