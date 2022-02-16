@@ -184,7 +184,7 @@
 
 ### 알고리즘
 - [x] 이코테 이분탐색 문제 풀이 및 정리
-
+  - [공유기 설치](https://www.acmicpc.net/problem/2110)
 
 </details>
 
