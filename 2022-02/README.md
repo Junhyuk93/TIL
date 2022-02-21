@@ -229,5 +229,16 @@
 
 </details>
 
+<details>
+ <summary>2월 21일</summary>
 
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 알고리즘
+- [x] 이코테 다이나믹 프로그래밍 문제 풀이
+  - 못생긴 수
+  
+- [ ] GAN 논문 리뷰
+
+</details>
 
