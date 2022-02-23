@@ -242,3 +242,36 @@
 
 </details>
 
+
+
+<details>
+ <summary>2월 22일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 면접 준비
+- [x] 면접준비
+
+### 알고리즘
+- [x] DP 문제풀이
+  - 금광
+
+### 프로젝트
+- [x] KAIST 창업 공모전 미팅
+
+</details>
+
+
+<details>
+ <summary>2월 23일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문구현
+- [x] UNet 처음부터 전부 구현해보기
+
+### 알고리즘
+- [x] 그리디 문제 풀이
+  - 만들 수 없는 금액
+
+</details>
