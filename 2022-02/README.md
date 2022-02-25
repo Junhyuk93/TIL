@@ -275,3 +275,17 @@
   - 만들 수 없는 금액
 
 </details>
+
+<details>
+ <summary>2월 25일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문구현
+- [x] UNet 처음부터 전부 구현해보기 (Transform)
+
+### 알고리즘
+- [x] 이코테 그리디 문제 풀이
+  - 곱하기 혹은 더하기
+
+</details>
