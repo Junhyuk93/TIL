@@ -289,3 +289,21 @@
   - 곱하기 혹은 더하기
 
 </details>
+
+
+<details>
+ <summary>2월 28일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문리뷰
+- [x] 이활석님의 오토인코더의 모든 것 - 1 보고 정리하기
+
+### 알고리즘
+- [x] 이코테 DP 문제 풀이
+  - [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
+
+### DS공부
+- [x] Pseudo Lab Data Science Fellowship 문제풀이
+
+</details>
