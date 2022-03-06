@@ -308,21 +308,3 @@
 
 </details>
 
-<details>
- <summary>3월 1일</summary>
-
-  <!-- summary 아래 한칸 공백 두어야함 -->
-
-### 논문리뷰
-- [x] 이활석님의 오토인코더의 모든 것 - 챕터 1 리마인드
-
-### GCSJ(구글 스터디잼)
-- [x] GCP 기초 실습
-
-### DS공부
-- [x] Pseudo Lab Data Science Fellowship 문제풀이
-
-### 논문공부
-- [x] JoJoGAN 맛만 보기
-
-</details>
