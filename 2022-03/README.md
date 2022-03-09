@@ -88,3 +88,51 @@
     - 운영체제, 인터럽트(interrupt), 프로세스와 스레드
 
 </details>
+
+
+<details>
+ <summary>3월 7일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### Google Cloud Study JAM 2022 AI/ML (구글 스터디잼)
+- [x] GCP ML flow 실습
+
+### 알고리즘
+- [ ] 이코테 구현 문제 풀이
+  - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)
+
+</details>
+
+
+<details>
+ <summary>3월 8일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문리뷰
+- [x] 이활석님의 오토인코더의 모든 것 - 챕터 3 토의
+
+### Google Cloud Study JAM 2022 AI/ML (구글 스터디잼)
+- [x] GCP ML flow 실습
+
+### 알고리즘
+- [ ] 이코테 구현 문제 풀이
+  - [치킨 배달](https://www.acmicpc.net/problem/15686)
+
+</details>
+
+<details>
+ <summary>3월 9일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문리뷰
+- [x] 이활석님의 오토인코더의 모든 것 - 챕터 3 - part2 공부
+- [x] GAN 논문 리뷰 작성하기 
+
+### 알고리즘
+- [ ] 이코테 구현 문제 풀이 (못푼거 다시 풀어보기)
+
+</details>
+
