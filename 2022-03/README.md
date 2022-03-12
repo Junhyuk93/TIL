@@ -136,3 +136,23 @@
 
 </details>
 
+
+<details>
+ <summary>3월 12일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문
+- [x] DCGAN 구현 
+
+### 알고리즘
+- [x] SKT 코테
+
+### 블로그
+- [x] 블로그 이사 준비
+
+### CS공부
+- [x] OS 남은 파트 마무리
+
+</details>
+
