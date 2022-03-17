@@ -181,3 +181,18 @@
 
 </details>
 
+<details>
+ <summary>3월 17일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문
+- [ ] CGAN 논문 리뷰하기 
+
+### 스터디
+- [x] GAN 스터디 준비
+- [x] cs231n Lecture 1
+
+
+</details>
+
