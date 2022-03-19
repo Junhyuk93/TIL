@@ -196,3 +196,21 @@
 
 </details>
 
+
+<details>
+ <summary>3월 19일</summary>
+
+  <!-- summary 아래 한칸 공백 두어야함 -->
+
+### 논문
+- [x] AE/VAE 강의 정리 
+- [x] CGAN 논문 읽기
+
+### 스터디
+- [x] cs231n Lecture 1
+
+### 구글 스터디잼
+- [x] GCP Quest
+
+</details>
+
