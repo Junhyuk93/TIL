@@ -217,3 +217,19 @@
 
 
 </details>
+
+
+<details>
+
+ <summary>3월 20일</summary>
+
+### 스터디
+- [x] edwith 선형대수 스터디 범위 공부
+- [x] GAN 스터디 준비
+- [x] cs231n Lecture 2
+
+
+### 독서
+- [x] 《죽음이란 무엇인가》(DEATH) - Shelly Kagan
+
+</details>
