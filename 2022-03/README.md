@@ -270,5 +270,22 @@
 </details>
 
 
+<details>
+
+ <summary>3월 24일</summary>
+
+### 스터디
+- [x] 가짜연구소〈Keeping up with GANs〉스터디
+
+### 알고리즘
+- [x] 이코테 정렬 문제풀이
+  - (안테나)[https://www.acmicpc.net/problem/18310]
+
+### 구글 스터디 잼
+- [x] Advanced ML: ML Infrastructure
+
+
+</details>
+
 
 
