@@ -275,7 +275,7 @@
  <summary>3월 24일</summary>
 
 ### 스터디
-- [x] 가짜연구소〈Keeping up with GANs〉스터디
+- [x] 가짜연구소〈Keeping up with GANs〉스터디 - VAE
 
 ### 알고리즘
 - [x] 이코테 정렬 문제풀이
@@ -284,6 +284,24 @@
 ### 구글 스터디 잼
 - [x] Advanced ML: ML Infrastructure
 
+
+</details>
+
+
+
+
+<details>
+
+ <summary>3월 25일</summary>
+
+### 스터디
+- [x] 선형대수 스터디 (전사함수, 일대일함수, Least Square)
+
+### 구글 스터디 잼
+- [x] Create ML Models with BigQuery ML
+
+### CS231N
+- [x] lecture 2
 
 </details>
 
