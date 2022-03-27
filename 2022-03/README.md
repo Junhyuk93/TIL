@@ -307,3 +307,15 @@
 
 
 
+<details>
+
+ <summary>3월 27일</summary>
+
+### 스터디
+- [x] GAN 스터디 자료만들기
+- [x] CS231N leacture 2
+
+### 알고리즘
+- [x] 이코테 못푼 문제들 해결하기
+
+</details>
