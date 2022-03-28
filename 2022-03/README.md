@@ -319,3 +319,15 @@
 - [x] 이코테 못푼 문제들 해결하기
 
 </details>
+
+
+<details>
+
+ <summary>3월 27일</summary>
+
+### 스터디
+- [x] GAN 스터디 자료만들기
+- [x] CS231N leacture 3
+- [x] 선형대수 스터디 (Orthogonal Projection)
+
+</details>
